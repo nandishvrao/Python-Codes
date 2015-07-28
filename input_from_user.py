@@ -1,7 +1,7 @@
 '''Author:Nandish V
 nandishvrao@gmail.com
 this code works fine in python 3.4.3'''
-#triple quotes are used to comments multiple lines
+#triple quotes are used to comment multiple lines
 '''we have two types of getting input from the user
 1)input(for new version)
 2)raw_input(for older version)'''
